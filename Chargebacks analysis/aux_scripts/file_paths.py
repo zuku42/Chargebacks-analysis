@@ -1,0 +1,12 @@
+"""
+Paths to files used in the program.
+"""
+DB_PATH = "files/db.sqlite"
+EXCEL_PATH = "files/Processing Report.xlsx"
+CSV_CARDS = "files/Cards dataframe.csv"
+CSV_CBS = "files/Chargebacks dataframe.csv"
+CSV_ALL = "files/Transactions dataframe.csv"
+FIG_ONE = "figures/Figure 1.tiff"
+FIG_TWO = "figures/Figure 2.tiff"
+FIG_THREE = "figures/Figure 3.tiff"
+FIG_FOUR = "figures/Figure 4.tiff"
